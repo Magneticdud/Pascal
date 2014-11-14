@@ -1,6 +1,7 @@
 program epilessia;
 uses crt;
 var a,col,n,x,r:integer;
+
 begin
 clrscr;
 sound(200);
@@ -23,4 +24,4 @@ writeln ('una identità è un eguaglianza fra due espressioni algebriche vera pe
 writeln ('ogni valore attribuito alle variabili. es:2x+5-4=2x+1');
 until x=n;
 readln;
-read
+end.
