@@ -24,4 +24,5 @@ begin
     writeln ('ogni valore attribuito alle variabili. es:2x+5-4=2x+1');
   until x=n;
   readln;
+  read
 end.
