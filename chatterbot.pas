@@ -24,4 +24,5 @@ ciao then writeln ('Cosa sono queste confidenze')
 end;
 if ris = 'no' then writeln ('Peccato ti sei perso una IA veramente straordinaria')
 else writeln ('Sei veramente un idiota da competizione!!');
-readln
+readln;
+end.
